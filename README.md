@@ -1,4 +1,4 @@
-# My cool website!
-If you're seeing this, hello. This is my cool website.
+# My cool website
+If you're seeing this, hello. This is my cool website
 <br>
-Come visit at https://temyi.github.io/
+Come visit at https://silent1meow.github.io/
